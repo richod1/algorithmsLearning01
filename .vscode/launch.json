@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SinglyLInkedLIst",
+            "request": "launch",
+            "mainClass": "SinglyLInkedLIst",
+            "projectName": "algorithmsLearning01_774e3ca7"
+        },
+        {
+            "type": "java",
             "name": "ArrayListExample",
             "request": "launch",
             "mainClass": "ArrayListExample",
